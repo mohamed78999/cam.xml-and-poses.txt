@@ -1,0 +1,1 @@
+# cam.xml-and-poses.txt
